@@ -1,0 +1,536 @@
+Mes;Origen;Clasificación;Mercancia;Pais de Procedencia;Kilos;Valor US$
+Abril;Bovino;Cárnico;Carne deshuesada;Nicaragua;64948.96;579623.19
+Abril;Bovino;Cárnico;Churrasco;Estados Unidos;8920.53;53717.82
+Abril;Bovino;Cárnico;Cortes;Estados Unidos;1347566.13;8905221.99
+Abril;Bovino;Cárnico;Cortes;Nicaragua;87193.22;622394.34
+Abril;Bovino;Cárnico;Costillas;Estados Unidos;116761.46;431283.13
+Abril;Bovino;Cárnico;Filete;Estados Unidos;24644.46;471970.38
+Abril;Bovino;Cárnico;Higado;Estados Unidos;47312.5;88830.8
+Abril;Bovino;Cárnico;Lomo;Estados Unidos;53353.59;161044.98
+Abril;Bovino;Cárnico;Paleta;Estados Unidos;26269.55;89503.07
+Abril;Bovino;Cárnico;Panceta;Estados Unidos;49181.25;214125
+Abril;Bovino;Cárnico;Paticas;España;71825.24;173911.05
+Abril;Bovino;Cárnico;Paticas;Nicaragua;19052;42860
+Abril;Bovino;Cárnico;Tiras;Estados Unidos;539.68;15803.43
+Abril;Bovino;Cárnico;Torta;Guatemala;17389.34;127515.75
+Abril;Bovino;Cárnico;Trimming;Estados Unidos;40939.8;106242
+Abril;Bovino;Cárnico;Trimming;Nicaragua;21772.66;136800
+Abril;Bovino;Cárnico;Tripas Artificiales de Celulosa;Estados Unidos;3169;49395.72
+Abril;Bovino;Cárnico;Tripas Artificiales de Celulosa;Mexico;1392.38;26880.45
+Abril;Bovino;Cárnico;Tripas Naturales;Estados Unidos;5003.69;101997.4
+Mayo;Bovino;Cárnico;Carne Molida;Estados Unidos;664803.45;813318.35
+Mayo;Bovino;Cárnico;Cortes;Estados Unidos;967613.75;5394700.79
+Mayo;Bovino;Cárnico;Cortes;Guatemala;21569.44;147411.2
+Mayo;Bovino;Cárnico;Cortes;Nicaragua;21967.86;185302.11
+Mayo;Bovino;Cárnico;Costillas;Estados Unidos;120760.98;413017.45
+Mayo;Bovino;Cárnico;Hamburguesas;Estados Unidos;1469.39;15162.68
+Mayo;Bovino;Cárnico;Lomo;Estados Unidos;20408;57468.32
+Mayo;Bovino;Cárnico;Paleta;Estados Unidos;258024.68;870585.81
+Mayo;Bovino;Cárnico;Panceta;Estados Unidos;5000;13150
+Mayo;Bovino;Cárnico;Paticas;España;49999.99;127865.3
+Mayo;Bovino;Cárnico;Paticas;Estados Unidos;24494.24;32650
+Mayo;Bovino;Cárnico;Paticas;Nicaragua;20916.57;49801.66
+Mayo;Bovino;Cárnico;Rabo;Estados Unidos;500;2500
+Mayo;Bovino;Cárnico;Torta;Guatemala;17324.43;136961.91
+Mayo;Bovino;Cárnico;Tripas Artificiales de Celulosa;Mexico;2892;54048.8
+Mayo;Bovino;Cárnico;Tripas Artificiales de Colageno;España;10000;2100
+Mayo;Bovino;Cárnico;Tripas Artifificiales Plasticas;Belgica;1341;28116.64
+Mayo;Bovino;Cárnico;Tripas Naturales;Estados Unidos;10800;127656
+Junio;Bovino;Cárnico;Carne deshuesada;Nicaragua;29000;237486.02
+junio;Bovino;Cárnico;Carne Molida;Estados Unidos;1023229.54;1417053.97
+junio;Bovino;Cárnico;Carne Molida;Guatemala;19636.36;117936
+junio;Bovino;Cárnico;Cortes;Estados Unidos;884001.55;5887304.03
+junio;Bovino;Cárnico;Cortes;Nicaragua;65363.72;312029.5
+junio;Bovino;Cárnico;Costillas;Estados Unidos;177314.09;679020.23
+junio;Bovino;Cárnico;Grasa;España;77007.61;97693.24
+junio;Bovino;Cárnico;Hamburguesas;Estados Unidos;11126.86;53387.02
+Junio;Bovino;Cárnico;Higado;Estados Unidos;24743.87;47731.57
+Junio;Bovino;Cárnico;Lomo;Brasil;52999.99;341618.82
+junio;Bovino;Cárnico;Lomo;Estados Unidos;97710.15;310645.66
+Junio;Bovino;Cárnico;Paleta;Estados Unidos;74733.82;237496.16
+Junio;Bovino;Cárnico;Paticas;España;50000;108750.48
+Junio;Bovino;Cárnico;Paticas;Estados Unidos;74138.62;171710.92
+junio;Bovino;Cárnico;Torta;Estados Unidos;17093.78;134690.41
+Junio;Bovino;Cárnico;Trimming;Brasil;21723.56;86205.2
+junio;Bovino;Cárnico;Trimming;Estados Unidos;81002.93;144540.23
+junio;Bovino;Cárnico;Tripas Artificiales de Celulosa;Estados Unidos;1190.68;35829.18
+junio;Bovino;Cárnico;Tripas Artifificiales Plasticas;Alemania;4705.4;153029.37
+junio;Bovino;Cárnico;Tripas Artifificiales Plasticas;Belgica;1950;39762.43
+junio;Bovino;Cárnico;Tripas Naturales;Estados Unidos;16025;175087.7
+Abril;Bovino;Lácteo;Crema Agria;Estados Unidos;13771.71;72025.76
+Abril;Bovino;Lácteo;Crema batida;Estados Unidos;35475.17;137867.86
+Abril;Bovino;Lácteo;Dulce de leche;Argentina;25090;68256
+Abril;Bovino;Lácteo;Dulce de leche;Chile;10800;26076
+Abril;Bovino;Lácteo;Dulce de leche;Colombia;32890;101230.4
+Abril;Bovino;Lácteo;Dulce de leche;Costa Rica;10560;31933.44
+Abril;Bovino;Lácteo;Dulce de leche;Estados Unidos;1578.21;4003.66
+Abril;Bovino;Lácteo;Flan;Estados Unidos;1972.78;8509.62
+Abril;Bovino;Lácteo;Grasa de leche;Estados Unidos;18779;124125.22
+Abril;Bovino;Lácteo;Helados;Belgica;17543.81;146735
+Abril;Bovino;Lácteo;Helados;Estados Unidos;61190.52;133765.95
+Abril;Bovino;Lácteo;Helados;Guatemala;9184;37724.95
+Abril;Bovino;Lácteo;Helados;Mexico;5880.06;56857.77
+Abril;Bovino;Lácteo;Salsa de queso;Estados Unidos;111300.74;280886.54
+Abril;Bovino;Lácteo;Suero de leche;Estados Unidos;39100;45370.06
+Abril;Bovino;Lácteo;Yogurt;España;13684;38261.26
+Abril;Bovino;Lácteo;Yogurt;Estados Unidos;43993.38;299573.66
+Abril;Bovino;Queso;Americano;Estados Unidos;9385.21;38011.57
+Abril;Bovino;Queso;Cheddar;Estados Unidos;72301.81;298875.69
+Abril;Bovino;Queso;Cheddar;Guatemala;10800;68132.78
+Abril;Bovino;Queso;Cheddar;Polonia;20994.6;81878.94
+Abril;Bovino;Queso;Cottage;Estados Unidos;1550.12;9712.5
+Abril;Bovino;Queso;Crema;Estados Unidos;32974;134625.66
+Abril;Bovino;Queso;Fundido;Estados Unidos;6803.95;12588
+Abril;Bovino;Queso;Gouda;Belgica;21343.39;118028.95
+Abril;Bovino;Queso;Gouda;Netherlands;42810.25;263687.36
+Abril;Bovino;Queso;Mozzarella;Alemania;162957.49;634148.92
+Abril;Bovino;Queso;Mozzarella;Belgica;41888;152510.41
+Abril;Bovino;Queso;Mozzarella;Estados Unidos;188211.54;698135.97
+Abril;Bovino;Queso;Mozzarella;Lituania;24000;72480
+Abril;Bovino;Queso;Mozzarella;Nueva Zelanda;24192;124588.8
+Abril;Bovino;Queso;Mozzarella;Reino Unido;19200;66539.92
+Abril;Bovino;Queso;Palitos de Queso;Estados Unidos;367.35;2514.65
+Abril;Bovino;Queso;Parmesano;Estados Unidos;10224.48;116868.8
+Abril;Bovino;Queso;Philadelfia;Estados Unidos;44876.08;312530.21
+Abril;Bovino;Queso;Queso fresco;Alemania;94104.34;419625.52
+Abril;Bovino;Queso;Queso fresco;Estados Unidos;17754.97;94440.3
+Abril;Bovino;Queso;Queso fresco;Italia;1;1
+Abril;Bovino;Queso;Queso fresco;Polonia;23920;90896
+Abril;Bovino;Queso;Queso maduro;España;12284.3;54069.09
+Abril;Bovino;Queso;Queso maduro;Estados Unidos;4721.23;46413.23
+Abril;Bovino;Queso;Queso maduro;Italia;3;3
+Abril;Bovino;Queso;Queso maduro;Netherlands;64352.14;373144.71
+Abril;Bovino;Queso;Rallado;España;5824;21700.91
+Abril;Bovino;Queso;Rallado;Estados Unidos;165808.76;744954.21
+Abril;Caprino;Queso;Queso de cabra;Netherlands;2342.17;22024.13
+Mayo;Bovino;Lácteo;Concentrado de Proteina;Estados Unidos;18980;162225.86
+Mayo;Bovino;Lácteo;Crema Agria;Estados Unidos;1556.74;9805.55
+Mayo;Bovino;Lácteo;Crema batida;Estados Unidos;330;17179.8
+Mayo;Bovino;Lácteo;Cuajo;Italia;2200;11592.24
+Mayo;Bovino;Lácteo;Dulce de leche;Colombia;35740;110916.01
+Mayo;Bovino;Lácteo;Dulce de leche;Costa Rica;10560;36284.11
+Mayo;Bovino;Lácteo;Dulce de leche;Estados Unidos;5681.57;14413.43
+Mayo;Bovino;Lácteo;Grasa de leche;Estados Unidos;93894.2;581956.32
+Mayo;Bovino;Lácteo;Helados;Estados Unidos;70898.39;160630.6
+Mayo;Bovino;Lácteo;Salsa de queso;Estados Unidos;46983.96;160918.95
+Mayo;Bovino;Lácteo;Suero de leche;Polonia;21264.4;250037.45
+Mayo;Bovino;Lácteo;Yogurt;Estados Unidos;38754.46;247810.02
+Mayo;Bovino;Queso;Americano;Estados Unidos;9549.6;38704.98
+Mayo;Bovino;Queso;Cheddar;Estados Unidos;52682.75;238573.44
+Mayo;Bovino;Queso;Cottage;Estados Unidos;857.3;5512.5
+Mayo;Bovino;Queso;Crema;Estados Unidos;17829.08;92311.9
+Mayo;Bovino;Queso;Havarti;Estados Unidos;544.31;2417.4
+Mayo;Bovino;Queso;Monterey;Estados Unidos;20000;43400
+Mayo;Bovino;Queso;Mozzarella;Alemania;107668;461395.44
+Mayo;Bovino;Queso;Mozzarella;Belgica;64366.45;271275.32
+Mayo;Bovino;Queso;Mozzarella;Estados Unidos;126701.92;548234.76
+Mayo;Bovino;Queso;Mozzarella;Italia;3500;52473.05
+Mayo;Bovino;Queso;Mozzarella;Polonia;21840;97709.62
+Mayo;Bovino;Queso;Parmesano;Estados Unidos;1387.85;16686.66
+Mayo;Bovino;Queso;Philadelfia;Estados Unidos;26426.9;219911.94
+Mayo;Bovino;Queso;Queso maduro;Alemania;5000;16050
+Mayo;Bovino;Queso;Queso maduro;Austria;20785.7;109638.61
+Mayo;Bovino;Queso;Queso maduro;España;1;1
+Mayo;Bovino;Queso;Queso maduro;Estados Unidos;48;48
+Mayo;Bovino;Queso;Queso maduro;Italia;2;2
+Mayo;Bovino;Queso;Rallado;España;14840;62031.2
+Mayo;Bovino;Queso;Rallado;Estados Unidos;234793.43;1069519.53
+junio;Bovino;Lácteo;CheeseCake;Estados Unidos;451.7;5802.37
+junio;Bovino;Lácteo;Concentrado de Leche;Estados Unidos;3200;37672.2
+junio;Bovino;Lácteo;Crema Agria;Estados Unidos;1647.86;15200.49
+junio;Bovino;Lácteo;Crema batida;Estados Unidos;63399.6;222554.69
+Junio;Bovino;Lácteo;Crema batida;Francia;10662;70197.15
+Junio;Bovino;Lácteo;Crema de leche;Brasil;151259.4;422383.98
+junio;Bovino;Lácteo;Cuajo;Estados Unidos;680;11399.52
+junio;Bovino;Lácteo;Dulce de leche;Argentina;14760;43632
+Junio;Bovino;Lácteo;Dulce de leche;Chile;21600;55692
+junio;Bovino;Lácteo;Dulce de leche;Colombia;36266;116311.57
+junio;Bovino;Lácteo;Dulce de leche;Estados Unidos;14760;43632
+Junio;Bovino;Lácteo;Grasa de leche;Estados Unidos;71885.64;440490
+Junio;Bovino;Lácteo;Grasa de leche;Netherlands;25000;79500
+junio;Bovino;Lácteo;Helados;Costa Rica;10560;31933.44
+junio;Bovino;Lácteo;Helados;Estados Unidos;86443.63;187827.64
+Junio;Bovino;Lácteo;Helados;Guatemala;6728;39806.21
+Junio;Bovino;Lácteo;Helados;Mexico;16869.7;110885.07
+Junio;Bovino;Lácteo;Mantequilla;Nueva Zelanda;20772.44;194359.19
+Junio;Bovino;Lácteo;Nata de leche;Alemania;43000;57956.16
+Junio;Bovino;Lácteo;Nata de leche;Francia;22644;73257.18
+Junio;Bovino;Lácteo;Productos Lácteos;España;19365.46;76521.2
+Junio;Bovino;Lácteo;Salsa de queso;Estados Unidos;146665.43;356141.32
+Junio;Bovino;Lácteo;Salsa de queso;Guatemala;10800;68132.99
+Junio;Bovino;Lácteo;Suero de leche;Canada;47668.5;128457.25
+Junio;Bovino;Lácteo;Suero de leche;Estados Unidos;20000;16237.21
+junio;Bovino;Lácteo;Yogurt;Estados Unidos;75121.54;506538.2
+Junio;;Queso;Quesos;Polonia;22607.9;81388.44
+junio;Bovino;Queso;Americano;Estados Unidos;5602.88;27288.5
+junio;Bovino;Queso;Cheddar;Estados Unidos;219569.92;883139.05
+junio;Bovino;Queso;Cottage;Estados Unidos;7606.06;53067.38
+junio;Bovino;Queso;Crema;Estados Unidos;23640.6;122175
+junio;Bovino;Queso;Fundido;Estados Unidos;4252;7951.24
+Junio;Bovino;Queso;Gouda;Netherlands;64409.91;288735.13
+junio;Bovino;Queso;Havarti;Estados Unidos;81.64;575.4
+junio;Bovino;Queso;Monterey;Estados Unidos;20000;80888.46
+Junio;Bovino;Queso;Mozzarella;Alemania;313326.47;1203867.2
+Junio;Bovino;Queso;Mozzarella;Belgica;20473.95;99298.68
+Junio;Bovino;Queso;Mozzarella;España;20825.43;72472.51
+junio;Bovino;Queso;Mozzarella;Estados Unidos;350074.52;1490171.2
+Junio;Bovino;Queso;Mozzarella;Francia;57770;278484
+Junio;Bovino;Queso;Mozzarella;Lituania;47974.44;149919.47
+junio;Bovino;Queso;Palitos de Queso;Estados Unidos;5877.55;41349.02
+junio;Bovino;Queso;Parmesano;Estados Unidos;30427.56;185429.63
+junio;Bovino;Queso;Philadelfia;Estados Unidos;37066.63;302734.07
+Junio;Bovino;Queso;Queso fresco;Alemania;46883.09;194314
+Junio;Bovino;Queso;Queso fresco;Dinamarca;24840;98118
+junio;Bovino;Queso;Queso fresco;Estados Unidos;18508.85;101260.69
+Junio;Bovino;Queso;Queso maduro;Alemania;47059.23;196916.31
+junio;Bovino;Queso;Queso maduro;Estados Unidos;7255.35;59967.15
+junio;Bovino;Queso;Queso maduro;Italia;1;1
+Junio;Bovino;Queso;Queso maduro;Netherlands;39858.36;228877.65
+Junio;Bovino;Queso;Quesos;Alemania;64900;227769.76
+junio;Bovino;Queso;Rallado;Estados Unidos;295596.14;1298955.31
+junio;Otro Origen;Queso;Queso fundido;Estados Unidos;317.06;2589.72
+Abril;Bovino;Leche;Formula Infantil;Dinamarca;11088;197383.02
+Abril;Bovino;Leche;Formula Infantil;Estados Unidos;12096;54220.32
+Abril;Bovino;Leche;Formula Infantil;Mexico;320909.4;1714485.78
+Abril;Bovino;Leche;Leche descremada en polvo;Estados Unidos;229425;645032.05
+Abril;Bovino;Leche;Leche descremada en polvo;Francia;100000;293393
+Abril;Bovino;Leche;Leche entera en polvo;Dinamarca;20160;162579.34
+Abril;Bovino;Leche;Leche entera en polvo;Francia;424850;1146600.75
+Abril;Bovino;Leche;Leche entera en polvo;Irlanda;350000;904750
+Abril;Bovino;Leche;Leche entera en polvo;Netherlands;76000;303021.08
+Abril;Bovino;Leche;Leche entera liquida;España;50700;37931.63
+Abril;Bovino;Leche;Leche entera liquida;Estados Unidos;102784.02;99742.01
+Abril;Bovino;Leche;Leche entera liquida;Polonia;42000;34938
+Abril;Bovino;Leche;Leche entera liquida;Puerto Rico;424166;118738.19
+Abril;Bovino;Leche;Leche evaporada;Alemania;81600;170490.17
+Abril;Bovino;Leche;Leche evaporada;Estados Unidos;7248.27;19050.61
+Abril;Bovino;Leche;Leche maternizada;Estados Unidos;21315.27;492684.72
+Abril;Bovino;Leche;Leche Modificada;Dinamarca;15876;74392.14
+Mayo;Bovino;Leche;Formula Infantil;Dinamarca;60404.4;711485.5
+Mayo;Bovino;Leche;Formula Infantil;Mexico;166943.04;982969.35
+Mayo;Bovino;Leche;Leche descremada en polvo;Alemania;50000;175151.36
+Mayo;Bovino;Leche;Leche descremada en polvo;Lituania;72000;227520
+Mayo;Bovino;Leche;Leche entera en polvo;Alemania;69000;218740
+Mayo;Bovino;Leche;Leche entera en polvo;Dinamarca;13743;166137.59
+Mayo;Bovino;Leche;Leche entera en polvo;Netherlands;204000;876154.5
+Mayo;Bovino;Leche;Leche entera liquida;Alemania;68551.2;57126
+Mayo;Bovino;Leche;Leche entera liquida;Belgica;133617.6;119740.25
+Mayo;Bovino;Leche;Leche entera liquida;España;9751;14494.86
+Mayo;Bovino;Leche;Leche entera liquida;Polonia;84000;44251.2
+Mayo;Bovino;Leche;Leche evaporada;Alemania;80028.24;149738.6
+Mayo;Bovino;Leche;Leche evaporada;Estados Unidos;5637.52;14799.35
+Mayo;Bovino;Leche;Leche semidescremada en polvo;Alemania;22291.2;15696
+Junio;Bovino;Leche;Formula Infantil;Alemania;17366.4;165092.98
+Junio;Bovino;Leche;Formula Infantil;España;13698.89;238337.88
+Junio;Bovino;Leche;Formula Infantil;Estados Unidos;46009.08;474481.6
+Junio;Bovino;Leche;Formula Infantil;Mexico;389446.3;2216420.31
+Junio;Bovino;Leche;Formula Infantil;Nueva Zelanda;100452.6;1175322.75
+junio;Bovino;Leche;Leche con Chocolate;Brasil;6864;23689.6
+Junio;Bovino;Leche;Leche descremada en polvo;Francia;99500;343772.5
+Junio;Bovino;Leche;Leche descremada en polvo;Netherlands;151000;451028.56
+Junio;Bovino;Leche;Leche descremada en polvo;Portugal;25000;83250
+Junio;Bovino;Leche;Leche descremada liquida;España;145480;138151.8
+Junio;Bovino;Leche;Leche descremada liquida;Polonia;105000;85948.45
+Junio;Bovino;Leche;Leche entera en polvo;Dinamarca;105717.6;787152.11
+Junio;Bovino;Leche;Leche entera en polvo;España;8496;119063.92
+Junio;Bovino;Leche;Leche entera en polvo;Estados Unidos;225626.59;807487.86
+Junio;Bovino;Leche;Leche entera en polvo;Francia;624775;1995696.23
+Junio;Bovino;Leche;Leche entera en polvo;Irlanda;25000;105625
+Junio;Bovino;Leche;Leche entera en polvo;Mexico;21282.6;108515.62
+Junio;Bovino;Leche;Leche entera en polvo;Netherlands;25000;108891
+Junio;Bovino;Leche;Leche entera en polvo;Polonia;100000;258500
+junio;Bovino;Leche;Leche entera liquida;España;2250;3286.13
+Junio;Bovino;Leche;Leche entera liquida;Polonia;101040;63070.66
+Junio;Bovino;Leche;Leche evaporada;Alemania;199248;372604.29
+junio;Bovino;Leche;Leche evaporada;Estados Unidos;9786.85;27990.87
+Junio;Bovino;Leche;Leche evaporada;Peru;108836.11;198020.8
+Junio;Bovino;Leche;Leche Modificada;Dinamarca;34560;153116.13
+Abril;Porcino;Cárnico;Cabeza;Estados Unidos;24494.23;4855
+Abril;Porcino;Cárnico;Chuleta;Brasil;191978.9;403043.9
+Abril;Porcino;Cárnico;Chuleta;Estados Unidos;1288049.89;3537772.75
+Abril;Porcino;Cárnico;Cortes;Brasil;52505.11;119374.25
+Abril;Porcino;Cárnico;Cortes;Estados Unidos;1156764.62;3997351.35
+Abril;Porcino;Cárnico;Costillas;Estados Unidos;228120.58;854689.75
+Abril;Porcino;Cárnico;Extracto Proteico;España;16350;94872.37
+Abril;Porcino;Cárnico;Filete;Estados Unidos;25404.91;101934.01
+Abril;Porcino;Cárnico;Grasa;Estados Unidos;180490.4;368290.26
+Abril;Porcino;Cárnico;Jamon;España;1150.53;10240.41
+Abril;Porcino;Cárnico;Jamon;Estados Unidos;4893;33508.36
+Abril;Porcino;Cárnico;Lomo;Estados Unidos;177159.56;586588.56
+Abril;Porcino;Cárnico;Orejas;Estados Unidos;70706.32;251597.75
+Abril;Porcino;Cárnico;Paleta;España;24818.43;47155.02
+Abril;Porcino;Cárnico;Paleta;Estados Unidos;385260.42;1268313.9
+Abril;Porcino;Cárnico;Panceta;España;102042.6;319443.85
+Abril;Porcino;Cárnico;Paticas;Brasil;26999.99;22619.2
+Abril;Porcino;Cárnico;Paticas;España;99840.37;151264.73
+Abril;Porcino;Cárnico;Paticas;Estados Unidos;152751.29;202676.87
+Abril;Porcino;Cárnico;Paticas;Reino Unido;120951.59;142974.15
+Abril;Porcino;Cárnico;Pierna;Brasil;28000;74074.56
+Abril;Porcino;Cárnico;Pierna;España;50994.42;100515.13
+Abril;Porcino;Cárnico;Pierna;Estados Unidos;1875874.74;4975620.17
+Abril;Porcino;Cárnico;Tocino o Tocineta;Estados Unidos;141983.89;757030.42
+Abril;Porcino;Cárnico;Tripas Naturales;Estados Unidos;22162;268043.11
+Mayo;Porcino;Cárnico;Cabeza;España;9539.43;18506.96
+Mayo;Porcino;Cárnico;Cabeza;Estados Unidos;22452.83;50505.4
+Mayo;Porcino;Cárnico;Chuleta;Brasil;83015.84;154397.09
+Mayo;Porcino;Cárnico;Chuleta;Estados Unidos;706527.92;1942404.28
+Mayo;Porcino;Cárnico;Cortes;Estados Unidos;1042011.49;3502246.69
+Mayo;Porcino;Cárnico;Costillas;Estados Unidos;170564.7;664303.52
+Mayo;Porcino;Cárnico;Enlatado;Estados Unidos;245.06;2857.66
+Mayo;Porcino;Cárnico;Grasa;Estados Unidos;23949.92;39229.97
+Mayo;Porcino;Cárnico;Jamon;Estados Unidos;122.53;1428.83
+Mayo;Porcino;Cárnico;Jamon Prosciutto;Estados Unidos;243.75;1502
+Mayo;Porcino;Cárnico;Lomo;Brasil;108317.4;257900.25
+Mayo;Porcino;Cárnico;Lomo;Estados Unidos;246514.13;760490.96
+Mayo;Porcino;Cárnico;Paleta;España;6798.08;36369.73
+Mayo;Porcino;Cárnico;Paleta;Estados Unidos;156127.49;545515.98
+Mayo;Porcino;Cárnico;Panceta;España;49158.32;171615.13
+Mayo;Porcino;Cárnico;Paticas;Estados Unidos;74184.74;107700.43
+Mayo;Porcino;Cárnico;Paticas;Reino Unido;24235.1;32300.31
+Mayo;Porcino;Cárnico;Pellets;Estados Unidos;35516.28;172550.68
+Mayo;Porcino;Cárnico;Pierna;Brasil;28000;74074.56
+Mayo;Porcino;Cárnico;Pierna;Estados Unidos;823140.72;2073409.28
+Mayo;Porcino;Cárnico;Tocino o Tocineta;Estados Unidos;59586.41;349458.05
+Mayo;Porcino;Cárnico;Tripas Naturales;Estados Unidos;10800;102971.52
+Junio;Porcino;Cárnico;Carne de Cerdo;España;51519.3;128391
+Junio;Porcino;Cárnico;Carne de Cerdo;Estados Unidos;24458.2;98349.02
+junio;Porcino;Cárnico;Carne deshidratada;Estados Unidos;17214;82731
+Junio;Porcino;Cárnico;Chuleta;Brasil;440065.78;801162.43
+Junio;Porcino;Cárnico;Chuleta;Estados Unidos;1327547.81;3790416.2
+junio;Porcino;Cárnico;Cochinillo;España;20115.96;47272.51
+Junio;Porcino;Cárnico;Cortes;Brasil;24490.48;62630.41
+junio;Porcino;Cárnico;Cortes;Estados Unidos;1014977.37;3817743.56
+Junio;Porcino;Cárnico;Costillas;Estados Unidos;242979.27;962342.32
+junio;Porcino;Cárnico;Filete;Estados Unidos;8000;16000
+Junio;Porcino;Cárnico;Grasa;Estados Unidos;49687.72;105072.02
+junio;Porcino;Cárnico;Jamon;Estados Unidos;523.54;5110.51
+Junio;Porcino;Cárnico;Lomo;Brasil;109025.16;174345.39
+junio;Porcino;Cárnico;Lomo;Estados Unidos;150535.86;525083.2
+Junio;Porcino;Cárnico;Mortadela;España;20867.8;53018.65
+Junio;Porcino;Cárnico;Orejas;Estados Unidos;23963.52;99848.7
+Junio;Porcino;Cárnico;Paleta;Estados Unidos;308386.64;1027318.5
+Junio;Porcino;Cárnico;Panceta;España;99253.83;322806.96
+Junio;Porcino;Cárnico;Panceta;Estados Unidos;23514.1;93621.6
+Junio;Porcino;Cárnico;Paticas;España;48860;96589.4
+Junio;Porcino;Cárnico;Paticas;Estados Unidos;314843.01;475268.85
+Junio;Porcino;Cárnico;Paticas;Reino Unido;48357.39;71396.06
+junio;Porcino;Cárnico;Pellets;Estados Unidos;20043.83;100513.56
+Junio;Porcino;Cárnico;Pierna;Brasil;134715.98;340778.96
+Junio;Porcino;Cárnico;Pierna;Estados Unidos;1439452.64;3992706.32
+Junio;Porcino;Cárnico;Tocino o Tocineta;Estados Unidos;122628.01;697991.73
+Junio;Porcino;Cárnico;Tripas;Estados Unidos;10600;112000
+junio;Porcino;Cárnico;Tripas Naturales;Estados Unidos;2160;32184
+Abril;Pavo;Cárnico;Entero;Estados Unidos;50315.47;245465.61
+Abril;Pavo;Cárnico;MDM, MSC, Pasta o Pulpa;Brasil;26985;13427.74
+Abril;Pavo;Cárnico;MDM, MSC, Pasta o Pulpa;Estados Unidos;26535.42;17412.54
+Abril;Pavo;Cárnico;Mortadela;España;21851.8;55509.54
+Abril;Pavo;Cárnico;Muslos;Estados Unidos;19849.4;150259.95
+Mayo;Pavo;Cárnico;Carne Molida;Estados Unidos;18143.87;84310
+Mayo;Pavo;Cárnico;Cortes;Estados Unidos;2800;11200
+Mayo;Pavo;Cárnico;Entero;Estados Unidos;69850.66;301021.31
+Mayo;Pavo;Cárnico;MDM, MSC, Pasta o Pulpa;Brasil;54735.38;28107.44
+Mayo;Pavo;Cárnico;MDM, MSC, Pasta o Pulpa;Estados Unidos;26308.63;23200
+Mayo;Pavo;Cárnico;Muslos;Estados Unidos;24549.81;119711.85
+Mayo;Pavo;Cárnico;Pechuga;Estados Unidos;146.94;1290.32
+Junio;Pavo;Cárnico;Alas;Estados Unidos;21419.99;68472.67
+junio;Pavo;Cárnico;Entero;Estados Unidos;44143.81;193749.04
+Junio;Pavo;Cárnico;Jamon;Estados Unidos;18415.94;139013.13
+junio;Pavo;Cárnico;Mortadela;Estados Unidos;23;731.86
+junio;Pavo;Cárnico;Muslos;Estados Unidos;89113.65;449162.2
+junio;Pavo;Cárnico;Pechuga;Estados Unidos;105750.8;1036641.48
+junio;Pavo;Cárnico;Tocino o Tocineta;Estados Unidos;5126.53;44093.95
+Abril;Ovino;Cárnico;Pierna;Estados Unidos;24682.53906;100209.5625
+Abril;Ovino;Cárnico;Pierna;Estados Unidos;48631.26953;116459.6914
+Abril;Ovino;Cárnico;Pierna;Estados Unidos;24484;61534.28906
+Abril;Ovino;Cárnico;Pierna;Estados Unidos;24495.58984;84784.71094
+Abril;Ovino;Cárnico;Pierna;Estados Unidos;24436.7793;72391.8125
+Abril;Ovino;Cárnico;Pierna;Estados Unidos;25434.2207;60331.58984
+Abril;Ovino;Cárnico;Pierna;Estados Unidos;25344.4707;64783
+Abril;Ovino;Cárnico;Pierna;Estados Unidos;24572.61914;65549.09375
+Mayo;Ovino;Cárnico;Pierna;Estados Unidos;22299.41016;57027.10938
+Mayo;Ovino;Cárnico;Carne de carnero o cordero;Estados Unidos;3000;15000
+Mayo;Ovino;Cárnico;Pierna;Estados Unidos;24985.71094;58194.21875
+Mayo;Ovino;Cárnico;Pierna;Estados Unidos;99740.42969;272746.6328
+Mayo;Ovino;Cárnico;Pierna;Estados Unidos;22671.50977;51686.51172
+Mayo;Ovino;Cárnico;Pierna;Estados Unidos;49742.83984;116855.3203
+Mayo;Ovino;Cárnico;Pierna;Estados Unidos;73320.45117;160056.7617
+Mayo;Ovino;Cárnico;Carne de carnero o cordero;Estados Unidos;3600;59040
+Mayo;Ovino;Cárnico;Pierna;Estados Unidos;22698.53906;59048.62109
+junio;Ovino;Cárnico;Pierna;Estados Unidos;25241.36914;54854.55078
+junio;Ovino;Cárnico;Pierna;Estados Unidos;24068.98047;52427.05078
+junio;Ovino;Cárnico;Pierna;Estados Unidos;22672.64063;58981.23828
+junio;Ovino;Cárnico;Carne de carnero o cordero;Estados Unidos;25000;125000
+junio;Ovino;Cárnico;Pierna;Estados Unidos;24494.18945;49733
+junio;Ovino;Cárnico;Carne de carnero o cordero;Estados Unidos;3500;113755.2031
+Abril;Bovino;Piel Animal;Curtidas o curadas;Argentina;5250;52749.94
+Abril;Bovino;Piel Animal;Curtidas o curadas;Brasil;5407;90163.81
+Abril;Bovino;Piel Animal;Curtidas o curadas;Estados Unidos;7003.86;120832.62
+Abril;Bovino;Piel Animal;Curtidas o curadas;Francia;532;40876.81
+Abril;Bovino;Piel Animal;Curtidas o curadas;Italia;126026;716574.65
+Abril;Bovino;Piel Animal;Curtidas o curadas;Vietnam;2446.2;40481.43
+Abril;Bovino;Piel Animal;Pieles procesadas;Brasil;20687;24773.29
+Abril;Bovino;Piel Animal;Pieles procesadas;Italia;4020;168388.17
+Abril;Bovino;Piel Animal;Pieles procesadas;Tailandia;496.2;16636.29
+Abril;Bovino;Piel Animal;Pieles procesadas;Vietnam;1898.2;46526.32
+Abril;Bovino;Piel Animal;Pieles Semiprocesadas;Estados Unidos;48716;101892.67
+Abril;Bovino;Piel Animal;Pieles Semiprocesadas;Turquia;44685;241744.16
+Mayo;Bovino;Piel Animal;Curtidas o curadas;Alemania;286;13111.23
+Mayo;Bovino;Piel Animal;Curtidas o curadas;Brasil;5426.48;72021.91
+Mayo;Bovino;Piel Animal;Curtidas o curadas;España;49656.35;38235.39
+Mayo;Bovino;Piel Animal;Curtidas o curadas;Estados Unidos;3213.54;22879.78
+Mayo;Bovino;Piel Animal;Curtidas o curadas;Francia;446;33621.09
+Mayo;Bovino;Piel Animal;Curtidas o curadas;Italia;136424.45;846583.48
+Mayo;Bovino;Piel Animal;Curtidas o curadas;Mexico;1810;48020.38
+Mayo;Bovino;Piel Animal;Curtidas o curadas;Polonia;2166;148293.85
+Mayo;Bovino;Piel Animal;Curtidas o curadas;Reino Unido;239;14113.69
+Mayo;Bovino;Piel Animal;Piel Bovina terminada;Italia;2277;68365.53
+Mayo;Bovino;Piel Animal;Pieles procesadas;Brasil;78970;90301.54
+Mayo;Bovino;Piel Animal;Pieles procesadas;Ecuador;14557;150555.41
+Mayo;Bovino;Piel Animal;Pieles Semiprocesadas;Estados Unidos;46075;83941
+Mayo;Bovino;Piel Animal;Curtidas o Curadas de Bufalo;India;6800;16320
+junio;Bovino;Piel Animal;Curtidas o curadas;Alemania;942;40788.98
+junio;Bovino;Piel Animal;Curtidas o curadas;Brasil;892;1235.06
+junio;Bovino;Piel Animal;Curtidas o curadas;Estados Unidos;12596.26;271286.91
+junio;Bovino;Piel Animal;Curtidas o curadas;Italia;156332.99;1047811.75
+junio;Bovino;Piel Animal;Curtidas o curadas;Mexico;23763.9;103930.8
+junio;Bovino;Piel Animal;Curtidas o curadas;Reino Unido;407;12541.42
+Junio;Bovino;Piel Animal;Curtidas o Curadas;Turquia;23390;91524.46
+junio;Bovino;Piel Animal;Curtidas o curadas;Vietnam;2434;31654.25
+Junio;Bovino;Piel Animal;Pieles procesadas;Brasil;48480;61756.68
+Junio;Bovino;Piel Animal;Pieles procesadas;Chile;24375;23077.83
+Junio;Bovino;Piel Animal;Pieles procesadas;China;48.7;575.85
+Junio;Bovino;Piel Animal;Pieles procesadas;Turquia;45514;173821.66
+Junio;Bovino;Piel Animal;Pieles Semiprocesadas;Bolivia;49291;47131.02
+Junio;Bovino;Piel Animal;Pieles Semiprocesadas;Estados Unidos;250011;484907.06
+Junio;Bovino;Piel Animal;Pieles Semiprocesadas;Turquia;82410;29470
+Junio;Bovino;Piel Animal;Pieles Terminadas;Italia;8664;222479.5
+Junio;Bovino;Piel Animal;Pieles Terminadas;Mexico;10895.5;132749.05
+junio;Bovino;Piel Animal;Curtidas o Curadas de Bufalo;India;2268.55;11502.88
+Abril;Bovino;Embutidos;Salchichas;Estados Unidos;43840.09;230383.18
+Abril;Otro Origen;Embutidos;Embutidos Variados;España;25933.79;159060.83
+Abril;Otro Origen;Embutidos;Embutidos Variados;Estados Unidos;648;6106.6
+Abril;Otro Origen;Embutidos;Embutidos Variados;Italia;5075.52;77953.87
+Abril;Porcino;Embutidos;Chorizo;Estados Unidos;142.86;1092.63
+Abril;Porcino;Embutidos;Pancetta;Estados Unidos;62310.42;319915.2
+Abril;Porcino;Embutidos;Pepperoni;Estados Unidos;5214;30044.6
+Abril;Porcino;Embutidos;Salchichas;Estados Unidos;7945;26539.55
+Mayo;Bovino;Embutidos;Salchichas;Estados Unidos;16117.87;118530.86
+Mayo;Otro Origen;Embutidos;Embutidos Variados;España;12956.88;81493.71
+Mayo;Otro Origen;Embutidos;Embutidos Variados;Estados Unidos;4;4
+Mayo;Otro Origen;Embutidos;Embutidos Variados;Italia;2;2
+Mayo;Pollo;Embutidos;Salchichas;Estados Unidos;1877.9;9614.84
+Mayo;Porcino;Embutidos;Pancetta;España;25285.42;75856.26
+Mayo;Porcino;Embutidos;Pancetta;Estados Unidos;5000;12500
+Mayo;Porcino;Embutidos;Salami;Estados Unidos;989.66;9567.5
+junio;Bovino;Embutidos;Salchichas;Estados Unidos;8478.88;40338.15
+Junio;Otro Origen;Embutidos;Embutidos Variados;España;59291.7;650996.02
+junio;Otro Origen;Embutidos;Embutidos Variados;Estados Unidos;2053.48;10499.33
+junio;Otro Origen;Embutidos;Embutidos Variados;Italia;1;1
+junio;Porcino;Embutidos;Chorizo;Estados Unidos;500;3729.68
+junio;Porcino;Embutidos;Pepperoni;Estados Unidos;793.65;6117.21
+Abril;Pollo;Cárnico;Alas;Estados Unidos;104672.32;237330.15
+Abril;Pollo;Cárnico;Carne Molida;Estados Unidos;1326316.93;1788050
+Abril;Pollo;Cárnico;Chicharron;Estados Unidos;6274.13;94232.33
+Abril;Pollo;Cárnico;Enlatado;Estados Unidos;2811.42;15711.09
+Abril;Pollo;Cárnico;Entero;Brasil;52758.99;85167.09
+Abril;Pollo;Cárnico;MDM, MSC, Pasta o Pulpa;Brasil;190924.97;113414.2
+Abril;Pollo;Cárnico;MDM, MSC, Pasta o Pulpa;Estados Unidos;298119.44;192552.48
+Abril;Pollo;Cárnico;Muslos;Estados Unidos;211422.51;327433.4
+Abril;Pollo;Cárnico;Nuggets;Estados Unidos;22209.57;67584.37
+Abril;Pollo;Cárnico;Pechuga;Brasil;395771.56;930362.45
+Abril;Pollo;Cárnico;Pechuga;Estados Unidos;440630.51;1261098.72
+Abril;Pollo;Cárnico;Pierna;Estados Unidos;24706.68;30935.23
+Abril;Pollo;Cárnico;Trozos;Estados Unidos;3629;24276
+Mayo;Pollo;Cárnico;Alas;Estados Unidos;262750.58;508607.59
+Mayo;Pollo;Cárnico;Carne Molida;Estados Unidos;477637.38;587062.5
+Mayo;Pollo;Cárnico;Chicharron;Estados Unidos;13440;90553.8
+Mayo;Pollo;Cárnico;Empanizado;Estados Unidos;16487.26;93663.36
+Mayo;Pollo;Cárnico;Enlatado;Estados Unidos;937.14;5265.93
+Mayo;Pollo;Cárnico;Grasa de Pollo;Estados Unidos;135683.61;297375.36
+Mayo;Pollo;Cárnico;Jamon;Estados Unidos;380.95;3413.83
+Mayo;Pollo;Cárnico;MDM, MSC, Pasta o Pulpa;Brasil;355567.52;193765.06
+Mayo;Pollo;Cárnico;MDM, MSC, Pasta o Pulpa;Estados Unidos;582218.71;507109.38
+Mayo;Pollo;Cárnico;Muslos;Estados Unidos;288180.76;341050.1
+Mayo;Pollo;Cárnico;Nuggets;España;14742;50413.53
+Mayo;Pollo;Cárnico;Nuggets;Estados Unidos;37426.7;96978.44
+Mayo;Pollo;Cárnico;Paleta;Estados Unidos;26290.5;88937.35
+Mayo;Pollo;Cárnico;Pechuga;Brasil;152911.18;336832.56
+Mayo;Pollo;Cárnico;Pechuga;Estados Unidos;381391.79;1145560.08
+Mayo;Pollo;Cárnico;Tiras;Estados Unidos;154.5;5086.14
+Mayo;Pollo;Cárnico;Trozos;Estados Unidos;27215.82;72848.59
+Junio;Pollo;Cárnico;Alas;Brasil;81809.98;156068.11
+junio;Pollo;Cárnico;Alas;Estados Unidos;183699.31;383090.87
+Junio;Pollo;Cárnico;Carne de pollo;Brasil;26991.99;56531.24
+Junio;Pollo;Cárnico;Carne Molida;Estados Unidos;1019928.38;1349602.55
+Junio;Pollo;Cárnico;Chicharron;Estados Unidos;9092.52;93968.2
+junio;Pollo;Cárnico;Empanizado;Estados Unidos;16487.26;93662.52
+junio;Pollo;Cárnico;Enlatado;Estados Unidos;937.14;5511.07
+Junio;Pollo;Cárnico;Grasa de Pollo;Estados Unidos;116899;190008.32
+Junio;Pollo;Cárnico;MDM, MSC, Pasta o Pulpa;Brasil;603585.93;364736.2
+Junio;Pollo;Cárnico;MDM, MSC, Pasta o Pulpa;Estados Unidos;158528.77;157521.23
+junio;Pollo;Cárnico;Muslos;Estados Unidos;252822.28;356102.92
+Junio;Pollo;Cárnico;Nuggets;España;20358;26747
+junio;Pollo;Cárnico;Nuggets;Estados Unidos;34471.87;96244.3
+junio;Pollo;Cárnico;Pechuga;Brasil;533275.96;1074741.53
+Junio;Pollo;Cárnico;Pechuga;Estados Unidos;370407.31;1392491.29
+Junio;Pollo;Cárnico;Pechurina;Brasil;27000;66150
+junio;Pollo;Cárnico;Tiras;Estados Unidos;120.1;3265.51
+Junio;Pollo;Cárnico;Trimming;Estados Unidos;79606.23;107493.75
+Abril;Otro Origen;Otro Tipo;Adereso;Estados Unidos;141.52;271.33
+Abril;Otro Origen;Otro Tipo;Base para biscocho;Estados Unidos;712;4441.33
+Abril;Otro Origen;Otro Tipo;Base Para helados;Chile;20880;33458.98
+Abril;Otro Origen;Otro Tipo;Base Para helados;Estados Unidos;9290.57;14163.44
+Abril;Otro Origen;Otro Tipo;Comidas Preparadas;Estados Unidos;1067.86;10165.36
+Abril;Otro Origen;Otro Tipo;Cremora;Estados Unidos;299.37;1358
+Abril;Otro Origen;Otro Tipo;Mayonesa;Costa Rica;6759.64;11291.96
+Abril;Otro Origen;Otro Tipo;Mayonesa;Estados Unidos;254331.83;516202.03
+Abril;Otro Origen;Otro Tipo;Morcilla;España;1248;5513.76
+Abril;Otro Origen;Otro Tipo;Pastas con queso;Estados Unidos;10208.7;13041
+Abril;Otro Origen;Otro Tipo;Preparacion Alimenticia;Alemania;100775;299020.31
+Abril;Otro Origen;Otro Tipo;Sopa;El Salvador;6906.24;23776.96
+Abril;Otro Origen;Otro Tipo;Preparacion Alimenticia;Italia;5888;66745.85
+Abril;Otro Origen;Otro Tipo;Preparacion Alimenticia;Netherlands;304500;877720
+Abril;Otro Origen;Otro Tipo;Productos carnicos;Estados Unidos;57606.7;239690.89
+Abril;Otro Origen;Otro Tipo;Tripas artificiales;Mexico;2891;60253.1
+Abril;Otro Origen;Otro Tipo;Tripas artificiales;Republica Checa;6444.8;185632.49
+Mayo;Otro Origen;Otro Tipo;Base Para helados;Estados Unidos;10800.87;40747.01
+Mayo;Otro Origen;Otro Tipo;Base Para helados;Italia;13167;94409
+Mayo;Otro Origen;Otro Tipo;Comidas Preparadas;Estados Unidos;2428.3;15849.1
+Mayo;Otro Origen;Otro Tipo;Gelatina;Colombia;17400;61430.4
+Mayo;Otro Origen;Otro Tipo;Mayonesa;Estados Unidos;160923.66;340385.38
+Mayo;Otro Origen;Otro Tipo;Mayonesa;Reino Unido;6.48;107.11
+Mayo;Otro Origen;Otro Tipo;Pastas con queso;Estados Unidos;919.97;5830.29
+Mayo;Otro Origen;Otro Tipo;Preparacion Alimenticia;Estados Unidos;456.73;1983.61
+Mayo;Otro Origen;Otro Tipo;Preparacion Alimenticia;Guatemala;31700.24;43309.84
+Mayo;Otro Origen;Otro Tipo;Preparacion Alimenticia;Netherlands;229500;575280
+Mayo;Otro Origen;Otro Tipo;Preparacion Alimenticia;Portugal;50000;156500
+Mayo;Otro Origen;Otro Tipo;Productos carnicos;España;1;1
+Mayo;Otro Origen;Otro Tipo;Productos carnicos;Estados Unidos;29294.91;247085.02
+Mayo;Otro Origen;Otro Tipo;Productos carnicos;Italia;1;1
+Mayo;Otro Origen;Otro Tipo;Sabor artificial de queso cheddar;Estados Unidos;2400;77568
+Mayo;Otro Origen;Otro Tipo;Tripas artificiales;Alemania;5327.9;57440.5
+junio;Otro Origen;Otro Tipo;Base Para helados;España;960;10801.92
+junio;Otro Origen;Otro Tipo;Base Para helados;Estados Unidos;442.25;3270
+junio;Otro Origen;Otro Tipo;Comidas Preparadas;Estados Unidos;2489.3;16450
+junio;Otro Origen;Otro Tipo;Cremora;Estados Unidos;17275;37719.5
+Junio;Otro Origen;Otro Tipo;Gelatina;Brasil;24000;134016.13
+junio;Otro Origen;Otro Tipo;Gelatina;Colombia;17790;51865.56
+junio;Otro Origen;Otro Tipo;Mayonesa;;356.82;1613.22
+junio;Otro Origen;Otro Tipo;Mayonesa;Costa Rica;11751.2;36866.52
+Junio;Otro Origen;Otro Tipo;Mayonesa;Estados Unidos;177971.83;275472.09
+junio;Otro Origen;Otro Tipo;Pastas con queso;Estados Unidos;1000;2231.08
+Junio;Otro Origen;Otro Tipo;Preparacion Alimenticia;Alemania;50000;120225
+Junio;Otro Origen;Otro Tipo;Preparacion Alimenticia;Belgica;24750;80438.4
+Junio;Otro Origen;Otro Tipo;Preparacion Alimenticia;España;15026.4;67887.83
+Junio;Otro Origen;Otro Tipo;Preparacion Alimenticia;Estados Unidos;100001;313977
+Junio;Otro Origen;Otro Tipo;Preparacion Alimenticia;Irlanda;150000;468599
+Junio;Otro Origen;Otro Tipo;Preparacion Alimenticia;Netherlands;280500;753397.5
+junio;Otro Origen;Otro Tipo;Productos carnicos;Estados Unidos;27284.52;169352.23
+junio;Otro Origen;Otro Tipo;Salsa BBQ;Estados Unidos;108.18;328.45
+Junio;Otro Origen;Otro Tipo;Tripas artificiales;Alemania;9874;128217.15
+Junio;Otro Origen;Otro Tipo;Tripas artificiales;Bulgaria;6870;57483
+Junio;Otro Origen;Otro Tipo;Tripas artificiales;Mexico;25701.38;477477.53
+Junio;Otro Origen;Otro Tipo;Tripas artificiales;Republica Checa;3040;86351.92
+Abril;Avícola;Huevo;Yema de huevo;Dinamarca;2100;22995
+Mayo;Avícola;Huevo;Huevo en polvo;Colombia;3600;27360
+Abril;Pollo;Huevo;Huevos Fértiles;Estados Unidos;13800;87300
